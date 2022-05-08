@@ -6,8 +6,9 @@ namespace Lab5
 {
     enum Actions
     {
-        Shoot = 1,
-        SingleShoot,
+        Exit,
+        Shoot,
+        BurstShot,
         Reload,
         Info
     }
